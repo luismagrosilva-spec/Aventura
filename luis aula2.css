@@ -1,16 +1,27 @@
 body {
-background-color: aliceblue;
-font-family: "bai janjuree", sans-serif;
-display: flex;
-justify-content: center;
-align-items: center;
-height: 700px;
-margin: 0;
+    background-color: aliceblue;
+    font-family: "bai janjuree", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+    }
+    button{
+    background-color:# 64A712;
+    color:whithe;
+    font-family: "bai janjuree",sans-serif;
+     }
+   passo{
+display: nome;
+   } 
+passo ativo{
+ display-block;
 }
-button{
-background-color:# 64A712;
-color:whithe
-
-
-
+ main{
+  text-align: center;
+ max-w dth 90%;
+}
+img{
+    max-width 90%;
 }
